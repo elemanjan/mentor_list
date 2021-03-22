@@ -1,0 +1,29 @@
+h1 {
+    color: #353535;
+    text-align: center;
+}
+
+nav ul a{
+    font-size: 20px !important;
+}
+
+body {
+    background-color: #eaeaea;
+    font-family: "Roboto", "Lucida Grande", Verdana, Arial, sans-serif;
+}
+
+p.title_ {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.card {
+    height: 400px;
+    overflow: hidden;
+}
+
+.card-image {
+    height: 250px;
+    overflow: hidden;
+}
+

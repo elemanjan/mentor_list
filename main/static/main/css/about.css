@@ -1,0 +1,136 @@
+nav ul a{
+    font-size: 20px !important;
+}
+
+h1 {
+    color: #ffffff !important;
+    text-align: center;
+}
+
+nav ul a{
+    font-size: 20px !important;
+}
+
+body {
+    background-color: #eaeaea;
+    font-family: "Roboto", "Lucida Grande", Verdana, Arial, sans-serif;
+}
+
+p.title_ {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+
+p {
+    line-height: 1.5;
+
+}
+
+.button-collapse {
+    color: #ee6e73;
+}
+
+div.container{
+    margin-top: 40px;
+}
+
+.parallax-container {
+    min-height: 550px;
+    line-height: 0;
+    height: auto;
+}
+
+.parallax-container .section {
+    width: 100%;
+}
+
+.icon-block {
+    padding: 0 15px;
+}
+
+footer.page-footer {
+    margin: 0;
+}
+
+
+.parallax img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .2 !important;
+
+}
+
+.parallax-container {
+    color: black;
+}
+
+.purple.lighten-1 {
+    background-color: #CC0066 !important;
+}
+
+.teal-text.text-lighten-2 {
+    color: #CC0066 !important;
+}
+
+.share-buttons {
+    list-style: none;
+}
+
+.share-buttons li {
+    display: inline;
+}
+
+.post-preview > .post-meta {
+    color: #808080;
+    font-size: 18px;
+    font-style: italic;
+    margin-top: 0;
+}
+
+.post-preview > .post-meta a {
+    color: #616161;
+}
+
+.post-preview > .post-meta a:hover {
+    color: #26a69a;
+}
+
+
+.post-preview > a > .post-subtitle {
+    margin: 0;
+    color: #616161;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+.post-preview > a > .post-subtitle:hover {
+    color: #26a69a;
+}
+
+.post-preview > a > .post-title {
+    font-size: 36px;
+    color: #616161;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.post-preview > a > .post-title:hover {
+    color: #26a69a;
+}
+
+hr {
+    height: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+.fa {
+    color: white;
+}
+
+.fa:hover {
+    color: #26a69a;
+}
